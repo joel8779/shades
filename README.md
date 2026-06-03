@@ -1,5 +1,8 @@
 # Shades-Store
 
+[![Build Status](https://github.com/joel8779/shades/actions/workflows/frontend.yml/badge.svg)](https://github.com/joel8779/shades/actions/workflows/frontend.yml)
+[![Last Commit](https://img.shields.io/github/last-commit/joel8779/shades)](https://github.com/joel8779/shades/commits/main)
+
 > A full-stack MERN e-commerce platform for curated eyewear.
 
 [![React](https://img.shields.io/badge/Frontend-React_18-blue?style=flat&logo=react)](https://react.dev/)
